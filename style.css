@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+div,
+p {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    padding: 35px 143px 95px;
+    font-family: 'StratosSkyeng', sans-serif;
+    color: #fff;
+    background: linear-gradient(130deg, rgba(173, 97, 255, 1) 0%, rgba(134, 119, 255, 1) 45%, rgba(0, 193, 255, 1) 100%);
+}
+th, td{
+    border: 1px solid #fff;
+    padding: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+th{
+    background-color: #0f4d6d;
+    font-size: 20px;
+}
+td{
+    font-size: 24px;
+
+}
+h1{
+    font-size: 64px;
+    font-style: normal;
+}
+h2{
+    font-size: 36px;
+    font-style: normal;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+div{
+    margin-top: 26px;
+
+}
